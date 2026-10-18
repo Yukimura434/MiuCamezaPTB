@@ -12,6 +12,6 @@ Các bản PC 3.x cũ cần tải và cài bản 3.0.13 thủ công một lần 
 
 ## Kênh Velopack cũ
 
-Các gói `photobooth-v*`, `RELEASES` và `releases.win.json` được giữ nguyên cho các bản Velopack cũ. GitHub Latest tiếp tục trỏ tới kênh cũ để tránh đưa bộ cài Inno của PC 3.x vào luồng Velopack. PC 3.0.13 tự chọn các phiên bản ổn định `vX.Y.Z` riêng.
+Các gói `photobooth-v*`, `RELEASES` và `releases.win.json` được giữ nguyên cho các bản Velopack cũ. GitHub Latest tiếp tục trỏ tới kênh cũ để tránh đưa bộ cài Inno của PC 3.x vào luồng Velopack. PC 3.0.13 tự chọn các phiên bản ổn định `vX.Y.Z` riêng. Vì Velopack chỉ xét các release gần nhất, bản 3.0.13 cũng kèm feed và gói full/delta 1.3.0 nguyên gốc để giữ khả năng tìm cập nhật cho client cũ. Người dùng PC 3.x chỉ cần tải bộ cài có số phiên bản 3.0.13 ở trên.
 
 [Toàn bộ bản phát hành](https://github.com/Yukimura434/MiuCamezaPTB/releases)
